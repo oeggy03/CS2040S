@@ -1,0 +1,250 @@
+Algo 0 is stable: true
+Algo 0 is correct: true
+
+Algo 1 is stable: false
+Algo 1 is correct: true
+
+Algo 2 is stable: true
+Algo 2 is correct: true
+
+Algo 3 is stable: false
+Algo 3 is correct: true
+
+Algo 4 is stable: false
+Algo 4 is correct: true
+
+Algo 5 is stable: true
+Algo 5 is correct: true
+
+Testing test 1.
+
+Test 1.0 with algo 0 costs 10844
+Test 1.1 with algo 0 costs 9980
+Test 1.2 with algo 0 costs 10520
+
+Average cost for algo 0 for test 1 is 10448
+
+Test 1.0 with algo 1 costs 13990
+Test 1.1 with algo 1 costs 15581
+Test 1.2 with algo 1 costs 11962
+
+Average cost for algo 1 for test 1 is 13844
+
+Test 1.0 with algo 2 costs 22260
+Test 1.1 with algo 2 costs 26231
+Test 1.2 with algo 2 costs 24426
+
+Average cost for algo 2 for test 1 is 24305
+
+Test 1.0 with algo 3 costs 16090
+Test 1.1 with algo 3 costs 16280
+Test 1.2 with algo 3 costs 16470
+
+Average cost for algo 3 for test 1 is 16280
+
+Test 1.0 with algo 4 costs 25732
+Test 1.1 with algo 4 costs 27559
+Test 1.2 with algo 4 costs 28280
+
+Average cost for algo 4 for test 1 is 27190
+
+Test 1.0 with algo 5 costs 6380
+Test 1.1 with algo 5 costs 6760
+Test 1.2 with algo 5 costs 6760
+
+Average cost for algo 5 for test 1 is 6633
+
+Testing test 2.
+
+Test 2.0 with algo 0 costs 9548
+Test 2.1 with algo 0 costs 9548
+Test 2.2 with algo 0 costs 10412
+
+Average cost for algo 0 for test 2 is 9836
+
+Test 2.0 with algo 1 costs 12569
+Test 2.1 with algo 1 costs 10900
+Test 2.2 with algo 1 costs 12145
+
+Average cost for algo 1 for test 2 is 11871
+
+Test 2.0 with algo 2 costs 1854
+Test 2.1 with algo 2 costs 1835
+Test 2.2 with algo 2 costs 1778
+
+Average cost for algo 2 for test 2 is 1822
+
+Test 2.0 with algo 3 costs 15140
+Test 2.1 with algo 3 costs 16090
+Test 2.2 with algo 3 costs 14570
+
+Average cost for algo 3 for test 2 is 15266
+
+Test 2.0 with algo 4 costs 29600
+Test 2.1 with algo 4 costs 28071
+Test 2.2 with algo 4 costs 27442
+
+Average cost for algo 4 for test 2 is 28371
+
+Test 2.0 with algo 5 costs 946
+Test 2.1 with algo 5 costs 889
+Test 2.2 with algo 5 costs 946
+
+Average cost for algo 5 for test 2 is 927
+
+Testing test 3.
+
+Test 3.0 with algo 0 costs 10844
+Test 3.1 with algo 0 costs 10736
+Test 3.2 with algo 0 costs 9656
+
+Average cost for algo 0 for test 3 is 10412
+
+Test 3.0 with algo 1 costs 2080
+Test 3.1 with algo 1 costs 2000
+Test 3.2 with algo 1 costs 2120
+
+Average cost for algo 1 for test 3 is 2066
+
+Test 3.0 with algo 2 costs 1778
+Test 3.1 with algo 2 costs 1835
+Test 3.2 with algo 2 costs 1816
+
+Average cost for algo 2 for test 3 is 1809
+
+Test 3.0 with algo 3 costs 14000
+Test 3.1 with algo 3 costs 14950
+Test 3.2 with algo 3 costs 14380
+
+Average cost for algo 3 for test 3 is 14443
+
+Test 3.0 with algo 4 costs 5600
+Test 3.1 with algo 4 costs 5600
+Test 3.2 with algo 4 costs 5000
+
+Average cost for algo 4 for test 3 is 5400
+
+Test 3.0 with algo 5 costs 870
+Test 3.1 with algo 5 costs 870
+Test 3.2 with algo 5 costs 965
+
+Average cost for algo 5 for test 3 is 901
+
+Testing test 4.
+
+Test 4.0 with algo 0 costs 11060
+Test 4.1 with algo 0 costs 10196
+Test 4.2 with algo 0 costs 10844
+
+Average cost for algo 0 for test 4 is 10700
+
+Test 4.0 with algo 1 costs 9240
+Test 4.1 with algo 1 costs 10165
+Test 4.2 with algo 1 costs 12714
+
+Average cost for algo 1 for test 4 is 10706
+
+Test 4.0 with algo 2 costs 23343
+Test 4.1 with algo 2 costs 25148
+Test 4.2 with algo 2 costs 24426
+
+Average cost for algo 2 for test 4 is 24305
+
+Test 4.0 with algo 3 costs 15520
+Test 4.1 with algo 3 costs 14760
+Test 4.2 with algo 3 costs 15330
+
+Average cost for algo 3 for test 4 is 15203
+
+Test 4.0 with algo 4 costs 31916
+Test 4.1 with algo 4 costs 30555
+Test 4.2 with algo 4 costs 26200
+
+Average cost for algo 4 for test 4 is 29557
+
+Test 4.0 with algo 5 costs 1447
+Test 4.1 with algo 5 costs 1484
+Test 4.2 with algo 5 costs 1484
+
+Average cost for algo 5 for test 4 is 1471
+
+B took 3 tries to be wrong.
+
+Round 1 (sorterChecker)
+
+Results from the 3 tests are in sorterChecker.txt. Test 0 checks for stablity and correctness, test 1 uses a descending array, test 2 uses an ascending array, test 3 uses an array with all the same elements. Test 4 mainly serves to differentiate insertion and bubble sort, its smallest element is the last one and the rest of the array is sorted.
+
+ 
+
+From test 0: 
+
+A, C, F are stable -> they are mergesort, insertionsort or bubblesort
+
+B, D, E are unstable --> they are selectionsort, quicksort or evilsort (by elimination)
+
+ 
+
+From test 1:
+
+SorterA average: 10448
+
+SorterB average: 13844
+
+SorterC average: 24305
+
+SorterD average: 16280
+
+SorterE average: 27190
+
+SorterF average: 6633
+
+ 
+
+From test 2:
+
+SorterA average: 9836
+
+SorterB average: 11871
+
+SorterC average: 1822
+
+SorterD average: 15266
+
+SorterE average: 28371
+
+SorterF average: 927
+
+ 
+
+From test 3:
+
+SorterA average: 10412
+
+SorterB average: 2066
+
+SorterC average: 1809
+
+SorterD average: 14443
+
+SorterE average: 5400
+
+SorterF average: 901
+
+ 
+
+From test 4:
+
+SorterA average: 10700
+
+SorterB average: 10706
+
+SorterC average: 24305
+
+SorterD average: 15203
+
+SorterE average: 29557
+
+SorterF average: 1471
+
+
+B took 3 tries to be wrong.
